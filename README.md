@@ -1,5 +1,5 @@
 # lab-part10
-# lab-2b-proposal
+
 # Outline
 
 We plan to build a series of leds that is connected in parallel.
